@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #000000;
+  color: #cccccc;
+  height: 100vh;
+}
+.hero {
+  background: url("./img/bg-ideia.jpg") no-repeat;
+  height: 180px;
+}

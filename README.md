@@ -1,2 +1,2 @@
-# stcoin2
+# stcoin
 Created with CodeSandbox
